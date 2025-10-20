@@ -12,6 +12,11 @@ In your Google Sheet, go to **Extensions \> Apps Script**. Then run the `.gs` co
 The first time you run it, Google will ask for permission to edit your sheet. 
 
 -----
+### Demo
+
+https://github.com/user-attachments/assets/6a853315-0fab-4279-8013-409aa6989c79
+
+-----
 
 ### How to Customize 
 
