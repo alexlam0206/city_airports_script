@@ -13,6 +13,7 @@ The first time you run it, Google will ask for permission to edit your sheet.
 
 -----
 ### Demo
+[script.gs](https://github.com/alexlam0206/city_airports_script/blob/main/script.gs)
 
 https://github.com/user-attachments/assets/6a853315-0fab-4279-8013-409aa6989c79
 
